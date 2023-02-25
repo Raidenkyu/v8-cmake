@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Exclude directories
+build
+external
+depot_tools
